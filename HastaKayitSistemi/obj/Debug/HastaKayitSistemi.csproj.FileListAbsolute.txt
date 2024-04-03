@@ -1,0 +1,11 @@
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\bin\Debug\HastaKayitSistemi.exe.config
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\bin\Debug\HastaKayitSistemi.exe
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\bin\Debug\HastaKayitSistemi.pdb
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\obj\Debug\HastaKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\obj\Debug\HastaKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\obj\Debug\HastaKayitSistemi.Form1.resources
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\obj\Debug\HastaKayitSistemi.Properties.Resources.resources
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\obj\Debug\HastaKayitSistemi.csproj.GenerateResource.cache
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\obj\Debug\HastaKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\obj\Debug\HastaKayitSistemi.exe
+C:\Users\guliz\Desktop\Proje\HastaKayitSistemi\HastaKayitSistemi\obj\Debug\HastaKayitSistemi.pdb
